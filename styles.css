@@ -1,0 +1,29 @@
+body {
+    font-family: 'Georgia', serif;
+    background-color: #f4f1ec;
+    margin: 40px;
+}
+
+h1 {
+    color: #2e4a3f;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+
+h2 {
+    color: #5a3e36;
+}
+
+p {
+    line-height: 1.6;
+    max-width: 700px;
+}
+
+img {
+    border-radius: 8px;
+    margin-top: 10px;
+}
+
+nav {
+    margin-bottom: 20px;
+    font-size: 18px;
+}
